@@ -33,7 +33,7 @@ function Hero() {
 
       <div className="md:w-1/2 h-[100%] flex items-center justify-center md:mt-0]">
         <img
-          src="/public/girlimage.png"
+          src="/girlimage.png"
           alt="Hero"
           loading="lazy"
           className="image w-full  filter hidden md:block drop-shadow-[0_10px_10px_rgba(255,182,193,0.7)] object-cover h-full"
